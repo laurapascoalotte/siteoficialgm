@@ -1,0 +1,2 @@
+alert('Bem-vindo à página de jogos');
+console.log('Bem-vindo à página de jogos');

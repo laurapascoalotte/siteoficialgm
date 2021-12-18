@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    display:fle
+}
+
+@font-face {
+    font-family: belleza;
+    src: url(Belleza-Regular.ttf);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white;
+    color: black;
+}
+
+
+.menu{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blanchedalmond;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+.apresentacao{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: rgb(63, 73, 82);
+}
+
+.subapresentacao{
+    width: auto;
+    text-align: center;
+    color: aliceblue;
+    font-family:belleza;
+}
+
+.subapresentacao p{
+    font-size: 23px;
+   letter-spacing: 0.5px;
+}
+
+.subapresentacao h2{
+    font-size: 50px;
+}
+
+.rodape {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(63, 73, 82);
+    color: aliceblue;
+}
+
+.subrodape p{
+    margin-bottom: 0;
+    font-family: belleza;
+}
+

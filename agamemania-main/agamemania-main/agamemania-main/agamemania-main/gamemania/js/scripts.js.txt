@@ -1,0 +1,2 @@
+alert('Login feito com sucesso!');
+console.log('Login feito com sucesso!');
